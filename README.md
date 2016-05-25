@@ -6,8 +6,8 @@ This book discusses Continuous Integration, Continuous Delivery, and Continuous 
 
 For further reading, you can also refer to the following books:
 * [Jenkins Continuous Integration Cookbook - Second Edition](https://www.packtpub.com/application-development/jenkins-continuous-integration-cookbook-second-edition)
-*
-*
+* [Jenkins Essentials](https://www.packtpub.com/application-development/jenkins-essentials)
+* [Mastering Jenkins](https://www.packtpub.com/application-development/mastering-jenkins)
 
 
 
