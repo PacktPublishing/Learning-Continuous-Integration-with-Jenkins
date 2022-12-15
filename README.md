@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781788479356)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learning Continuous Integration with Jenkins
 
 *[Learning Continuous Integration with Jenkins](https://www.packtpub.com/networking-and-servers/learning-continuous-integration-jenkins?utm_source=github&utm_medium=repository&utm_campaign=9781785284830)*, serves as a step-by-step guide to set up Continuous Integration, Continuous Delivery, and Continuous Deployment system using hands-on examples. 
